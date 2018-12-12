@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 50f2086efa8fb534995f15082cfc39e9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - poopPrefab: {fileID: 1108821381812556, guid: b4dcea1ed8ad0084fabe66098f5aba14,
+      type: 2}
+  - butt: {instanceID: 0}
+  - stinkRadius: {instanceID: 0}
+  - poopCollider: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
